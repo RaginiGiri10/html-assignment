@@ -1,0 +1,19 @@
+ul{
+    list-style-type: none;
+    text-align: center;
+}
+li{
+    display: inline;
+}
+li a{
+    padding: 0;
+    display: inline-block;
+}
+div{
+    text-align: center;
+}
+.images{
+    width: 160px;
+    height:200px ;
+    border: 2px solid #555;
+  }
